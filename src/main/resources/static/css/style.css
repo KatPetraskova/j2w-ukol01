@@ -1,0 +1,100 @@
+.profil_foto {
+    border-radius: 50%;
+    width: 170px;
+    border: 4px solid #BC8F8F;
+    margin: 40px;
+}
+
+h1 {
+    padding: 150px 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: right;
+}
+
+h1,
+h2 {
+    color:  #BC8F8F;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h2{
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.omne,
+.kontakt,
+.footer {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.kontakt {
+    padding: 50px 30%;
+}
+
+
+.menu {
+    font-family: 'Quicksand', sans-serif;
+    background-color:#BC8F8F;
+    color:   #FAEBD7;
+    margin: 0;
+    padding:0;
+    text-align: center;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu a {
+    display: inline-block;
+    color: #FAEBD7;
+    text-decoration: none;
+    padding: 20px 30px;
+}
+
+.menu a:hover,
+.menu a:focus,
+.menu a:active {
+    background-color: #D2B48C;
+}
+
+table{
+    border-spacing: 0;
+    padding-left: 650px;
+}
+
+th,
+td {
+    border-bottom: 1px solid #756158;
+    text-align: left;
+    padding: 10px 0;
+}
+
+.obor {
+    text-align: right;
+    padding-left: 50px;
+}
+
+.ntb_pic {
+    width: 170px;
+    margin: 40px;
+}
+
+.mail_pic {
+    width: 170px;
+    margin: 40px;
+}
+
+.footer {
+    background-color: #BC8F8F;
+    color: #FAEBD7;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.rabbitheart,
+.pixabay {
+    padding: 0 30px;
+}
